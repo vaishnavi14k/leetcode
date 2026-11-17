@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vaishnavi14k/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vaishnavi14k/leetcode/tree/master/0053-maximum-subarray) |
+| [0229-majority-element-ii](https://github.com/vaishnavi14k/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vaishnavi14k/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vaishnavi14k/leetcode/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/vaishnavi14k/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vaishnavi14k/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vaishnavi14k/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vaishnavi14k/leetcode/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/vaishnavi14k/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vaishnavi14k/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vaishnavi14k/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/vaishnavi14k/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vaishnavi14k/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -51,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vaishnavi14k/leetcode/tree/master/0053-maximum-subarray) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vaishnavi14k/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
