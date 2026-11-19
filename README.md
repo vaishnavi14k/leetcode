@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vaishnavi14k/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vaishnavi14k/leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/vaishnavi14k/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vaishnavi14k/leetcode/tree/master/0242-valid-anagram) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vaishnavi14k/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vaishnavi14k/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vaishnavi14k/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/vaishnavi14k/leetcode/tree/master/0229-majority-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vaishnavi14k/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
